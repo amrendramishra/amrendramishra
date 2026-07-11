@@ -18,6 +18,7 @@
 ### About Me
 
 - **Vice President** at JPMorgan Chase (July 2026)
+- Previously at **Delta Air Lines** — eCommerce Checkout Platform
 - Built **45 AI tools** — all local, free, private → [github.com/amrendramishra/ai-tools](https://github.com/amrendramishra/ai-tools)
 - Running **9 YouTube channels** — fully automated, ₹0/month cost
 - Created **Voice Commander** — control all AI tools with "Hey Jarvis"
