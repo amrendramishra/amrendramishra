@@ -27,7 +27,7 @@ motto: "Automate everything, learn constantly"
 - 🤖 Built **45 AI tools** using Ollama, LangChain, MCP → [See all](https://github.com/amrendramishra/ai-tools)
 - 🎬 Running **9 automated YouTube channels** with zero monthly cost
 - 🎤 Created **Voice Commander** — control all tools with "Hey Jarvis"
-- 🌐 Portfolio: [amrendramishra.github.io](https://amrendramishra.github.io)
+- 🌐 Portfolio: [amrendramishra.github.io](https://amrendranmishra.dev)
 
 ---
 
@@ -96,7 +96,7 @@ motto: "Automate everything, learn constantly"
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrendramishra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amrendramishra.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amrendranmishra.dev)
 
 </div>
 
