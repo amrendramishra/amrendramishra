@@ -23,7 +23,6 @@ motto: "Automate everything, learn constantly"
 ```
 
 - 🏦 **Vice President** at JPMorgan Chase (Jul 2026)
-- ✈️ Previously at **Delta Air Lines** — Built OmniCheckout, NextGen Checkout (1100+ repos)
 - 🤖 Built **45 AI tools** using Ollama, LangChain, MCP → [See all](https://github.com/amrendramishra/ai-tools)
 - 🎬 Running **9 automated YouTube channels** with zero monthly cost
 - 🎤 Created **Voice Commander** — control all tools with "Hey Jarvis"
