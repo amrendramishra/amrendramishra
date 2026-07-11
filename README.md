@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Amrendra+Mishra;Software+Engineer+%7C+AI+Builder+%7C+9+YouTube+Channels;45+AI+Tools+%7C+Local+LLMs+%7C+Full+Automation+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Amrendra+Mishra;VP+%40+JPMorgan+%7C+AI+Builder+%7C+9+YouTube+Channels;45+AI+Tools+%7C+Local+LLMs+%7C+Full+Automation+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=amrendramishra&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
 
@@ -9,11 +8,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Amrendra Narayan Mishra
-location: Bengaluru, India 🇮🇳
+location: Bengaluru, India
 role: Vice President @ JPMorgan Chase
 youtube_channels: 9 (fully automated, ₹0/month cost)
 ai_tools_built: 45
@@ -22,15 +21,15 @@ open_source: true
 motto: "Automate everything, learn constantly"
 ```
 
-- 🏦 **Vice President** at JPMorgan Chase (Jul 2026)
-- 🤖 Built **45 AI tools** using Ollama, LangChain, MCP → [See all](https://github.com/amrendramishra/ai-tools)
-- 🎬 Running **9 automated YouTube channels** with zero monthly cost
-- 🎤 Created **Voice Commander** — control all tools with "Hey Jarvis"
-- 🌐 Portfolio: [amrendramishra.github.io](https://amrendranmishra.dev)
+- **Vice President** at JPMorgan Chase (Jul 2026)
+- Built **45 AI tools** using Ollama, LangChain, MCP — [view all](https://github.com/amrendramishra/ai-tools)
+- Running **9 automated YouTube channels** with zero monthly cost
+- Created **Voice Commander** — control all tools with "Hey Jarvis"
+- Portfolio: [amrendranmishra.dev](https://amrendranmishra.dev)
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -49,7 +48,7 @@ motto: "Automate everything, learn constantly"
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com/?user=amrendramishra&theme=tokyonight&hide_border=true"/>
@@ -61,20 +60,20 @@ motto: "Automate everything, learn constantly"
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 | Metric | Value |
 |--------|-------|
-| 🤖 AI Tools Built | **45** ([view all](https://github.com/amrendramishra/ai-tools)) |
-| 📺 YouTube Channels | **9** (fully automated) |
-| 🧠 Local AI Models | **6** (18GB, runs offline) |
-| 🔌 MCP Servers | **8** connected |
-| ⚡ GitHub Actions | **5** (running 24/7) |
-| 💰 Monthly Cost | **₹0** |
+| AI Tools Built | **45** ([view all](https://github.com/amrendramishra/ai-tools)) |
+| YouTube Channels | **9** (fully automated) |
+| Local AI Models | **6** (18GB, runs offline) |
+| MCP Servers | **8** connected |
+| GitHub Actions | **5** (running 24/7) |
+| Monthly Cost | **₹0** |
 
 ---
 
-## 🎬 YouTube Channels (All Automated)
+## YouTube Channels (All Automated)
 
 | Channel | Niche | Schedule |
 |---------|-------|----------|
@@ -90,12 +89,13 @@ motto: "Automate everything, learn constantly"
 
 ---
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/amrendranmishra.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amrendranmishra.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrendramishra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amrendranmishra.dev)
+[![AI Tools](https://img.shields.io/badge/45_AI_Tools-4CAF50?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/amrendramishra/ai-tools)
 
 </div>
 
