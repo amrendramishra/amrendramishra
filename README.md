@@ -14,7 +14,7 @@
 ```yaml
 name: Amrendra Narayan Mishra
 location: Bengaluru, India 🇮🇳
-role: Lead Software Engineer @ JPMorgan Chase
+role: Vice President @ JPMorgan Chase
 youtube_channels: 9 (fully automated, ₹0/month cost)
 ai_tools_built: 45
 passion: AI Automation + Local LLMs + MCP
