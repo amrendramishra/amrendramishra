@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/amrendra-narayan-mishra-198187167/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/amrendranmishra"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://topmate.io/amrendra_n_mishra"><img src="https://img.shields.io/badge/Topmate-FF6B6B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
+  <a href="https://dev.to/amrendra_n_mishra"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 </p>
 
 <p align="center">
