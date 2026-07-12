@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amrendra%20Mishra&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Vice%20President%20@%20JPMorgan%20Chase%20•%20AI%20Builder%20•%209%20YouTube%20Channels&descSize=16&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amrendra%20N%20Mishra&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Solutions%20Architect%20•%20VP%20@%20JPMorgan%20Chase%20•%20~12%20Years%20Experience&descSize=15&descAlignY=52" width="100%"/>
 
 <p align="center">
   <a href="https://amrendramishra.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logoColor=white"/></a>
@@ -24,15 +24,19 @@
 
 ```js
 const amrendra = {
+    title: "Solutions Architect & Lead Full Stack Engineer",
     role: "Vice President @ JPMorgan Chase",
-    previous: "Delta Air Lines — eCommerce Platform",
+    experience: "~12 years",
+    previous: [
+        "Delta Air Lines — Solutions Architect & Lead",
+        "HCL Technologies — Technical Lead (PayPal)",
+        "Cognizant — Technical Lead (Apple)",
+    ],
     location: "Bengaluru, India 🇮🇳",
-    education: "B.Tech Computer Science",
+    education: "B.Tech CSE — RGTU (77.03%)",
     aiTools: 45,
     youtubeChannels: 9,
     monthlyCost: "₹0",
-    focus: "Local AI • MCP • Multi-Agent Systems",
-    funFact: "I say 'Hey Jarvis' and my Mac does everything"
 };
 ```
 
@@ -45,9 +49,18 @@ const amrendra = {
 |---|---|
 | 🌐 | **[Portfolio](https://amrendramishra.github.io)** |
 | 💻 | **[45 AI Tools](https://github.com/amrendramishra/ai-tools)** |
+| 🔗 | **[amrendranmishra.dev](https://amrendranmishra.dev)** |
 | 📊 | **[Kaggle](https://www.kaggle.com/amrendranmishra)** |
 | 💼 | **[LinkedIn](https://www.linkedin.com/in/amrendra-narayan-mishra-198187167/)** |
-| 🌐 | **[amrendranmishra.dev](https://amrendranmishra.dev)** |
+
+### Career
+
+| Company | Role |
+|---------|------|
+| **JPMorgan Chase** | Vice President |
+| **Delta Air Lines** | Solutions Architect |
+| **HCL (PayPal)** | Technical Lead |
+| **Cognizant (Apple)** | Technical Lead |
 
 </td>
 </tr>
@@ -61,36 +74,32 @@ const amrendra = {
 <tr>
 <td width="33%" align="center">
 
-**🤖 AI Automation**
+**🤖 AI & GenAI**
 
-45 tools running locally
-with Ollama + LangChain
-+ MCP Protocol
-
-Voice controlled:
-*"Hey Jarvis"*
+Multi-Agent Systems (LangGraph)
+RAG Pipelines with Guardrails
+45 local AI tools (Ollama)
+Voice Commander ("Hey Jarvis")
 
 </td>
 <td width="33%" align="center">
 
-**📺 Content Empire**
+**🏗️ Enterprise Architecture**
+
+Omnichannel Checkout (Delta)
+Incident Platform (PayPal 400M users)
+Serverless @ scale (AWS Lambda)
+2M+ daily transactions
+
+</td>
+<td width="33%" align="center">
+
+**📺 Content Automation**
 
 9 YouTube channels
-Daily auto-uploads
 AI → TTS → Video → Upload
-
-Zero manual effort
-
-</td>
-<td width="33%" align="center">
-
-**🏗️ Enterprise Systems**
-
-Mission-critical checkout
-Multi-region AWS
-Millions of transactions
-
-Java 21 + Quarkus
+Fully automated, ₹0/month
+Trending detection + generation
 
 </td>
 </tr>
@@ -98,14 +107,22 @@ Java 21 + Quarkus
 
 ---
 
-### Tech Stack
+### Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,typescript,go,react,aws,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,typescript,go,react,aws,docker,linux,git&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis,postgres,dynamodb,terraform,gradle,maven,flutter,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,redis,postgres,dynamodb,terraform,gradle,maven,kafka,kubernetes&theme=dark" />
 </p>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java 21/17/11, Python, Kotlin, TypeScript, Go, SQL |
+| **Frameworks** | Spring Boot, Quarkus, React, FastAPI, Hibernate/JPA |
+| **Cloud & Infra** | AWS (Lambda, API Gateway, DynamoDB, CloudWatch), Docker, Kubernetes |
+| **AI & GenAI** | LangGraph, LangChain, Ollama, AWS Bedrock, RAG, Multi-Agent Systems, Amazon Q |
+| **Data** | DynamoDB, Oracle, PostgreSQL, Elasticsearch, Redis, Kafka |
 
 ---
 
@@ -115,33 +132,27 @@ Java 21 + Quarkus
 <tr>
 <td width="50%">
 
-🎤 **[Voice Commander](https://github.com/amrendramishra/ai-tools)**
-> Control 45 tools with voice. Wake word, hotkey, command chaining.
+🎤 **[Voice Commander](https://github.com/amrendramishra/ai-tools)** — Control 45 tools with "Hey Jarvis"
 
-🤖 **[Multi-Agent Crew](https://github.com/amrendramishra/ai-tools)**
-> 5 AI agents: Researcher → Writer → Editor → Reviewer → Publisher
+🤖 **[Multi-Agent Crew](https://github.com/amrendramishra/ai-tools)** — Researcher → Writer → Editor → Publisher
 
-🔍 **[RAG Pipeline](https://github.com/amrendramishra/ai-tools)**
-> Index docs → ask questions → sourced answers. Fully local.
+🔍 **[RAG Pipeline](https://github.com/amrendramishra/ai-tools)** — Index docs, ask questions, get sourced answers
 
 </td>
 <td width="50%">
 
-🌐 **[Local ChatGPT UI](https://github.com/amrendramishra/ai-tools)**
-> Web interface for Ollama. Streaming, markdown, conversations.
+🌐 **[Local ChatGPT UI](https://github.com/amrendramishra/ai-tools)** — Web interface for Ollama models
 
-📺 **[Shorts Factory](https://github.com/amrendramishra/ai-tools)**
-> One command = YouTube Shorts for all 9 channels.
+📺 **[Shorts Factory](https://github.com/amrendramishra/ai-tools)** — YouTube Shorts for 9 channels in one command
 
-🧠 **[Learning Agent](https://github.com/amrendramishra/ai-tools)**
-> AI that remembers everything about you. Gets smarter daily.
+💻 **[AI Code Reviewer](https://github.com/amrendramishra/ai-tools)** — Reviews git diffs as pre-commit hook
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/amrendramishra/ai-tools"><img src="https://img.shields.io/badge/See_all_45_projects_→-6c63ff?style=for-the-badge"/></a>
+  <a href="https://github.com/amrendramishra/ai-tools"><img src="https://img.shields.io/badge/View_all_45_projects_→-6c63ff?style=for-the-badge"/></a>
 </p>
 
 ---
