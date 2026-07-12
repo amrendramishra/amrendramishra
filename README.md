@@ -6,6 +6,7 @@
   <a href="https://github.com/amrendramishra/ai-tools"><img src="https://img.shields.io/badge/45_AI_Tools-4CAF50?style=for-the-badge&logo=openai&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/amrendra-narayan-mishra-198187167/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/amrendranmishra"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://topmate.io/amrendra_n_mishra"><img src="https://img.shields.io/badge/Topmate-FF6B6B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
 </p>
 
 <p align="center">
